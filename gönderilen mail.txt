@@ -1,0 +1,12 @@
+      Merhaba, Ben üniversitemizin bilgisayar mühendisliði bölümünün birinci sýnýf öðrencisiyim.Dahiliye (3.katta) karþýlaþtýðým ve de ilgilendiðim bir sorunu belirteceðim.Bu gün Dr. Öðr. Ü. Tekin YILDIRIM'a(dahiliye) bir rahatsýzlýðým nedeniyle gittim.Sorun þu ki ekranlarý holdeki ekranlar kullanýlamýyor.Ekrandaki bilgiler yan odanýn ekranýnda gözüküyor.Yardým teklif ettim fakat bunu düzeltip düzeltemeyeceðimi bilemedim.Sorun bir çok nedenden kaynaklý olabilir.
+      Kendim de bir hasta olarak beklediðim için sýram geldimi gelmedimi emin olamadým.Doktorlarýn kapýsý sürekli bu nedenden açýlýp kapanýyor rahatsýz bunu rahatsýz edici buluyorum. Gereðinin yapýlmasýný arz ediyorum.
+
+Ayrýca hastalarýn sýralarýný takip etmek için bir program yapmayý önerdim(Tabiki ekraný kullanmamalarýnýn asýl nedeni bu deðilmiþ.)
+Ama hasta takibi her zaman zor oluyormuþ.Her gün baþýnda sistemde randevu alan bireylerin verilerini en kötü doktorun mail adresine gönderilmesi ve doktorun o dosyayý açýp çalýþtýrmasý,Programýn ekrana yansýtmasý,ilk sýradan hastalarýn isimlerinin okunmasý,1 dakika gibi bir süre beklendiði ve hastanýn içeri geçmediði durumda bir sonraki ismin ekrana yazýlmasý benim naçizane önerimdir.
+Hastaneye özel serverler olabilir .Fakat yoksa hasta sýrasýný manual girmek de bir çözümdür.
+
+Þu anda bu programý yapacak bir altyapým yok fakat ilgilenirseniz araþtýrmalarýmý bu yöne doðrultabilirim
+Teþekkürler..
+
+
+ 

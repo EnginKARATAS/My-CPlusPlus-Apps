@@ -1,0 +1,4 @@
+referans ile çaðýrma
+fonksyon return ile bir deðer döndürebilir
+fakat referans ile(call by reference) birden
+çok deðer döndürebilir
